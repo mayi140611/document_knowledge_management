@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T22:31:46.171Z" agent="5.0 (Windows)" etag="32L7-V4sIv79OGbahc6U" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-22T23:34:21.394Z" agent="5.0 (Windows)" etag="T0fhYeN2fPGZszVpKg3G" version="17.4.5" type="github">
   <diagram id="vNYnXQ_NGjMI0ObO1V1S" name="Page-1">
     <mxGraphModel dx="782" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,6 +54,36 @@
         </mxCell>
         <mxCell id="132BHVAMFDwWj38LlXiz-10" value="摘要生成全文" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="330" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="132BHVAMFDwWj38LlXiz-11" value="自己完整的train一次代码提交" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="132BHVAMFDwWj38LlXiz-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="500" as="sourcePoint" />
+            <mxPoint x="420" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="132BHVAMFDwWj38LlXiz-13" value="写小说的成书过程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="490" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="132BHVAMFDwWj38LlXiz-14" value="确定题材" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5" y="470" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="132BHVAMFDwWj38LlXiz-15" value="梗概主线" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="132BHVAMFDwWj38LlXiz-16" value="&lt;div&gt;大纲&lt;/div&gt;&lt;div&gt;涉及哪些人物&lt;/div&gt;&lt;div&gt;人物关系&lt;/div&gt;&lt;div&gt;大的事件等&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="450" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="132BHVAMFDwWj38LlXiz-17" value="细纲扩展成章节摘要" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="460" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="132BHVAMFDwWj38LlXiz-18" value="摘要扩展成整个章节" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="510" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="132BHVAMFDwWj38LlXiz-19" value="&lt;div&gt;细纲&lt;/div&gt;&lt;div&gt;明确小说章节，每节几十字&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="510" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
