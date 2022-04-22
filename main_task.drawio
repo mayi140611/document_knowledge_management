@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T02:17:11.143Z" agent="5.0 (Windows)" etag="GpH8fvNbUpvjA8PvvBai" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-22T01:28:38.363Z" agent="5.0 (Windows)" etag="O4YWVxELZi_W4j1q1bz6" version="17.4.5" type="github">
   <diagram id="vNYnXQ_NGjMI0ObO1V1S" name="Page-1">
     <mxGraphModel dx="782" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,21 @@
         </mxCell>
         <mxCell id="132BHVAMFDwWj38LlXiz-5" value="AI生成小说" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="132BHVAMFDwWj38LlXiz-6" value="下载大量小说" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="330" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="132BHVAMFDwWj38LlXiz-7" value="研究文本生成的方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="132BHVAMFDwWj38LlXiz-8" value="划分章节" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="330" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="132BHVAMFDwWj38LlXiz-9" value="章节添加摘要" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="330" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="132BHVAMFDwWj38LlXiz-10" value="摘要生成全文" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="330" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
